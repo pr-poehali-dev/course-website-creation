@@ -316,7 +316,7 @@ const Index = () => {
 
       <footer className="bg-secondary text-secondary-foreground py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="mb-2 font-heading font-bold">Академия Бухгалтерии</p>
+          <p className="mb-2 font-heading font-bold">Альма Санакоти</p>
           <p className="text-sm opacity-80">© 2024 Все права защищены</p>
         </div>
       </footer>
