@@ -77,7 +77,7 @@ const Index = () => {
     <div className="min-h-screen">
       <header className="bg-secondary text-secondary-foreground py-4 sticky top-0 z-50 shadow-md">
         <div className="container mx-auto px-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold font-heading">Альма Санакоти</h1>
+          <h1 className="text-2xl font-bold font-heading">Лаборатория Судебно Бухгалтерской Экспертизы</h1>
           <nav className="hidden md:flex gap-6">
             <a href="#courses" className="hover:text-primary transition-colors">Курсы</a>
             <a href="#about" className="hover:text-primary transition-colors">О преподавателе</a>
